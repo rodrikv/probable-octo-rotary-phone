@@ -1,1 +1,1 @@
-
+vless://c0b9dd6c-9676-4cd1-9e7c-9c6ac59afd37@104.17.148.22:2096?security=tls&sni=app2.year2025appdatat.lat&type=grpc&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2096
