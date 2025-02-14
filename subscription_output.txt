@@ -1,1 +1,1 @@
-vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-87.121.79.113:443
+
