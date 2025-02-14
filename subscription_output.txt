@@ -1,1 +1,2 @@
-
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-185.231.205.100:3237
+vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JesSy-PADBerg.WorkeRS.DEv&type=ws&host=pPAL03.JESSy-pAdbErg.workERs.deV&path=%2FlMuv-8IfB5AOf3_-%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.87:443
