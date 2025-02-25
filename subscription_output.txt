@@ -1,12 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.150:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.25.243:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.25.243:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.214.61:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.214.61:8880
-vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.21.43.145:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=/@ln2ray?ed%3D2560&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.145:443
-vless://9530a590-49bc-41dd-9499-88c33614ef28@151.101.192.155:80?security=none&type=ws&host=ramzarz.news&path=%2Fshark%2Fu%2F0%2Finbox#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.22.144:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.22.144:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.127:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.129:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.162.208:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.162.208:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.226.76:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.248.163:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.109:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.109:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.126:8880
