@@ -1,4 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.160.152:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-65.109.160.152:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.189.182:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.189.182:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.139:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.139:8880
-vless://3100c077-31fe-4539-bdb4-bdf965065ecf@185.79.158.142:8051?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8051
+
