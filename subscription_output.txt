@@ -1,2 +1,1 @@
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-57.129.29.62:14360
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.221:8880
+
