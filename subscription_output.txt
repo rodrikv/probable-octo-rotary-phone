@@ -1,2 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.224:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.226:8880
+
