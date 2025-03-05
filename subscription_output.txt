@@ -1,9 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.220:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.220:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.224:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.211.49:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.211.49:8880
-vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-188.213.128.116:1011
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.93.66:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.139:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.139:8880
-vless://96b2f66b-b35b-5eda-8f08-420fdfe95c11@95.164.46.39:2052?security=none&sni=itvpnAndroid2.69.mu&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇮🇹 IT-95.164.46.39:2052
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.126:8880
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.5.114:443
+vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.179.157:80
+vless://48eb8684-aa12-4b6d-b0ef-765193e6fb49@104.16.122.82:80?security=none&type=ws&host=tight-queen-5bc0-ppal03.siwome4657.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.82:80
