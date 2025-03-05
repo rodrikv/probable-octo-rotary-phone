@@ -1,2 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.157:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.157:8880
 vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.179.157:80
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.184.194:80
