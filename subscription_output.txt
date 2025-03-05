@@ -1,6 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.199:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.19.236:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.19.236:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.125:8880
-vless://bd19adc6-3ecf-4f03-b202-88524e2eb4fe@104.17.147.22:8080?security=none&type=ws&host=xn---qhanayawi--d-24k6bpsq04a093aa7xpll4cy5cbab79043ht5ia.xn--48jyb6eya.tech.lilartik.online.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8080
-vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.179.157:80
-vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?security=none&type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.182.65:80
+vless://c66b1fac-f708-4691-9c50-e8e8cffeffaf@151.101.2.165:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#🔒 VL-WS-NA 🇺🇸 US-151.101.2.165:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.128:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.127:8880
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.92.243:80
