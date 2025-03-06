@@ -1,4 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.108.156.55:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.93.66:8880
-vless://977a37f9-7d88-45b9-b286-df86379ccadd@151.101.2.165:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#🔒 VL-WS-NA 🇺🇸 US-151.101.2.165:80
-vless://660be52d-1f37-4fcf-894a-63893a1c9214@104.26.15.85:80?security=none&type=ws&host=dEcIsive-FORce.oNEEAt.cO.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
+vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.2:80
