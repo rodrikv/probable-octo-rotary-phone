@@ -1,1 +1,1 @@
-vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?security=none&type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.182.65:80
+vless://c6b34209-523e-4350-a1fd-058a5847d124@151.101.192.155:80?security=none&type=ws&host=iranhoush.com&path=ws%2F%3Fed%3D2560%23Telegram%40Freev2alpha#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
