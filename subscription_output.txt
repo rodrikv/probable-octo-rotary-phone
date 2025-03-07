@@ -1,13 +1,12 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.131:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.131:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.213.90:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.213.90:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.24.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.24.46:8880
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-188.213.128.116:1011
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.93.66:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.123:8880
 vless://c66ee4ef-9b11-4d67-9cc9-0767feff4ff3@151.101.192.155:80?security=none&type=ws&host=ramzarz.news&path=%2Fshark%2Fu%2F0%2Finbox#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@104.22.71.81:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.71.81:443
-vless://ab1d1d10-5d26-4bc9-8476-350d205bde28@172.66.168.200:443?security=tls&sni=UK1-vLEss.greenSSH.ORg&type=ws&host=UK1-vLEss.greenSSH.ORg&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.200:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.191.12:8880
-vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@104.22.70.81:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.70.81:443
 vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@172.67.36.124:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.36.124:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.123:8880
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
-vless://90765624-6fb5-49d6-ce81-2b1c10645319@104.21.44.185:8443?security=tls&sni=Freedomisnear.onetwothree123.ir&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.185:8443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.129:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.217.33:8880
+vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@104.22.70.81:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.70.81:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-65.109.226.76:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.150:8880
