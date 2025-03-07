@@ -1,27 +1,16 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.199:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.108.156.55:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.248.163:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-95.217.8.216:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.33.124:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.33.124:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.247.139:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-135.181.43.75:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.35.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.107:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-135.181.192.107:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.205:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.205:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.213.90:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.213.90:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.199:8880
+vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-188.213.128.116:1011
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.223:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.175.223:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.217.33:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.220:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.220:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.131:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.131:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.93.66:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.125:8880
-vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:443?security=tls&sni=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.184.194:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.19.236:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.19.236:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.217:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.252.217:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.191.12:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.126:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.19.236:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.19.236:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.129:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.224:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.224:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.108.156.55:8880
+vless://c66ee4ef-9b11-4d67-9cc9-0767feff4ff3@151.101.192.155:80?security=none&type=ws&host=ramzarz.news&path=%2Fshark%2Fu%2F0%2Finbox#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@172.67.36.124:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.36.124:443
-vless://5803bc0e-f6b0-4fdb-9728-da5e470eddbe@104.17.147.22:443?security=tls&sni=parsdl.xyz&type=ws&host=hj-de.parsdl.xyz&path=%2Fhajmi%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
-vless://b481bdf0-bf4b-464a-8357-725a0bb5a7d9@194.76.18.158:443?security=tls&sni=hdfyreplace3.parthianempire.org&type=ws&host=hdfyreplace3.parthianempire.org&path=%2Fb481bdf0-bf4b-464a-8357-725a0bb5a7d9#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.158:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.217:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.252.217:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.217.33:8880
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.16.144.242:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.144.242:2083
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.205:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.175.205:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-135.181.192.108:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-135.181.43.75:8880
