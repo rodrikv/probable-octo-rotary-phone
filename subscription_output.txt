@@ -1,13 +1,10 @@
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.2:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-157.90.238.93:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.55.115:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.21.55.115:8880
-vless://138a09b2-6a45-470a-a77f-bf75bf40e509@54.37.78.215:36632?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-54.37.78.215:36632
 vless://ffae5ab9-891f-46ff-92ec-eab2ed5f0c04@185.143.233.120:2086?security=none&type=ws&host=getasa.ir&path=%2Ftelegram-shrakpublic%3Fed%3D2048#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2086
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.35.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.34.160:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.34.160:8880
+vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.2:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-135.181.43.75:8880
 vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-185.234.247.110:80
+vless://280059be-4575-4b25-9903-92fe6b628e14@185.79.158.144:8765?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.144:8765
 vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
-vless://5d2e4955-9ac0-42a1-945d-695f40470ad7@192.200.160.188:8443?security=tls&sni=crm.iranigamebaz.ir&type=grpc&serviceName=Vpnmizban---Vpnmizban----Vpnmizban----Vpnmizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.188:8443
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-91.194.161.69:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.65:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.65:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.247.139:8880
+vless://be976fd2-e487-45b6-8f83-8d095c300fd8@104.16.42.209:80?type=ws&host=cold-limit-d61-ppal03.sobeyov632.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.42.209:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=/47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
