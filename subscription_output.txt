@@ -1,3 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.251:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.251:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-95.217.214.119:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.65:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.65:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.91.167:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.149:8880?security=none&sni=TM-AZAFBAYJB1.W90.WORKERS.DEV&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.149:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.126:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.24.226:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.24.226:8880
