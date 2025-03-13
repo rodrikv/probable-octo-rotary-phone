@@ -1,6 +1,6 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.3.233:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.3.233:8880
+vless://639241df-db2e-4dbb-90c7-55f5eea2ad81@104.19.54.50:8080?security=none&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.55.115:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-65.21.55.115:8880
+vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.33.212:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.65:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.65:8880
-vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-91.194.161.69:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-81.31.250.218:43851
+vless://9af9f8b3-637c-5d12-9d18-943c095635c9@5.181.23.67:2086?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NA 🇬🇧 GB-5.181.23.67:2086
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=/47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
