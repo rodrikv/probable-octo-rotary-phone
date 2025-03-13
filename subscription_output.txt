@@ -1,14 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.108.156.55:8880
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.153.103:443?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-91.107.153.103:443
 vless://2eacdff2-ff2f-4e05-9ffd-553e0c9f97e7@85.9.125.146:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.125.146:443
-vless://017086fb-c340-4181-a577-7b86b56dc9c6@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2082
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.91.167:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.34.160:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.34.160:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.251:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.251:8880
-vless://d478ba8c-8f7c-41b4-ad9b-60881477e208@185.167.99.251:65025?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-185.167.99.251:65025
-vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.73:8880
-vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:443?security=tls&sni=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.184.194:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.117:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.117:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.108.156.55:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.213.90:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.213.90:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-157.90.238.93:8880
