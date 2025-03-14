@@ -1,2 +1,1 @@
-vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.171.24.63:80?security=none&host=JoinBadeChannel@JOKERRVPNTelegram#🔒 VL-TCP-NONE 🇺🇸 US-35.171.24.63:80
