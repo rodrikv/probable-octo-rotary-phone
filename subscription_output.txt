@@ -1,25 +1,18 @@
 vless://ec526a16-8995-4c52-bda5-8c9f97afba4d@37.202.232.62:443?security=none&type=tcp&host=bmw.com&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.232.62:443
 vless://7fd9c29c-1fa7-42b6-8310-2d1024a1d422@138.199.229.172:5000?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-138.199.229.172:5000
-vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@45.136.5.116:19381?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-45.136.5.116:19381
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.91.167:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-157.90.238.93:8880
-vless://0896baf8-5a95-4d66-82b6-0cb2884cbd9e@138.199.213.102:19210?security=none&type=grpc&serviceName=19210vless#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.213.102:19210
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.214.119:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.33.124:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.33.124:8880
-vless://d67b8913-cd31-536a-b4c9-9dcecd041d33@45.89.55.188:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇷🇸 RS-45.89.55.188:8880
-vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
 vless://33c27fb7-5a08-4ccf-a64d-b19086e6bb7b@142.132.185.23:37722?security=none&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#🔒 VL-GRPC-NONE 🇩🇪 DE-142.132.185.23:37722
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.105.42:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.173.105.42:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-195.201.91.167:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.3.233:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.3.233:8880
+vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@45.136.5.116:19381?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-45.136.5.116:19381
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.73:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.65:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.65:8880
+vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-91.194.161.69:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.34.160:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.34.160:8880
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.2:80
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?encryption=noneShadmanegi+Unlimited&type=tcp#🔒 VL-TCP-NA 🇺🇸 US-5.78.53.184:443
-vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.178.56.158:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=%2Fws%2F63b84876f2e89b42bbc19e48%2FX&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.178.56.158:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.109:8880
-vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@104.21.75.193:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=%2Fa8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.193:443
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.171.24.63:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-35.171.24.63:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.172.239:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-65.109.172.239:8880
-vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.38.223.139:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=/ws/63b84876f2e89b42bbc19e48/X&alpn=http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.38.223.139:443
-vless://6b437afc-62b3-40ba-9112-ee667a783c3d@81.28.12.12:80?type=ws&host=dzdfcff.com&path=%2Fo2H5qkTE2DdX1kv2%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-81.28.12.12:80
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.105.42:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.173.105.42:80
+vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.132.187:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.33.124:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.33.124:8880
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.63:2083
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.109:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.251:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.20.251:8880
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.176:443?security=tls&sni=hkklo.azurewebsites.net&type=ws&host=hkklo.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-13.75.34.176:443
