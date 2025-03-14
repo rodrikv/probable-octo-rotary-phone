@@ -1,13 +1,12 @@
 vless://ec3d9e57-2b62-4bd2-8aa1-a583de0cb784@94.182.149.45:39978?security=none&type=tcp&host=bwm.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.149.45:39978
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.172.239:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-65.109.172.239:8880
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.228:80
-vless://0372ced3-6001-4158-b258-b35f192845ee@185.146.173.185:2053?security=tls&sni=cgvgvhbbygvfchggv.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:2053
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-5.161.144.111:443
-vless://0896baf8-5a95-4d66-82b6-0cb2884cbd9e@138.199.213.102:19210?security=none&type=grpc&serviceName=19210vless#🔒 VL-GRPC-NONE 🇩🇪 DE-138.199.213.102:19210
-vless://d2760579-350f-4f75-91f0-f3d5a12bdaf0@188.95.65.163:443?security=tls&flow=xtls-rprx-vision&sni=download.dilik.co&type=tcp&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇩🇪 DE-188.95.65.163:443
-vless://d67b8913-cd31-536a-b4c9-9dcecd041d33@45.89.55.188:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇷🇸 RS-45.89.55.188:8880
 vless://ab4afd7f-5c6b-4590-a119-253551414e34@141.11.103.212:4002?security=none&host=Copy-az-chahnnel-JOKERRVPNTelegram#🔒 VL-TCP-NONE 🇳🇱 NL-141.11.103.212:4002
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.171.24.63:80?security=none&host=JoinBadeChannel@JOKERRVPNTelegram#🔒 VL-TCP-NONE 🇺🇸 US-35.171.24.63:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.109:8880
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-91.194.161.69:80
-vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.73:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.73:80
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-5.161.144.111:443
+vless://0372ced3-6001-4158-b258-b35f192845ee@185.146.173.185:2053?security=tls&sni=cgvgvhbbygvfchggv.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:2053
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.105.42:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.173.105.42:80
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.171.24.63:80?security=none&host=JoinBadeChannel@JOKERRVPNTelegram#🔒 VL-TCP-NONE 🇺🇸 US-35.171.24.63:80
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
+vless://90e2a66c-f4d1-4fcb-b8f1-227fa39af373@104.19.54.50:8080?sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.54.50:8080
