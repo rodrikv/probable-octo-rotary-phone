@@ -1,1 +1,2 @@
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.171.24.63:80?security=none&host=JoinBadeChannel@JOKERRVPNTelegram#🔒 VL-TCP-NONE 🇺🇸 US-35.171.24.63:80
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.105.42:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.173.105.42:80
