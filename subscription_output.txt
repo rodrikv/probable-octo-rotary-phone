@@ -1,8 +1,5 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.65:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.20.65:8880
 vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-185.234.247.110:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-95.217.214.119:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
-vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.31.250.218:43851
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.3.233:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.3.233:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.2:80
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.173.105.42:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.173.105.42:80
+vless://9d9787be-736a-47f0-82a9-8eb4bf06be17@188.114.97.113:443?security=tls&sni=m236.inaonehorseopensleigh.com&type=ws&host=m236.inaonehorseopensleigh.com&path=/v6445828875#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.113:443
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
