@@ -1,11 +1,11 @@
 vless://8c824b91-063a-4f75-b919-eb16fffa9bf7@194.58.46.199:39917?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇪 AE-194.58.46.199:39917
 vless://2eacdff2-ff2f-4e05-9ffd-553e0c9f97e7@85.9.125.146:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.125.146:443
+vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-185.125.103.139:30693
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.13.58:8880
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@172.67.150.87:443?security=tls&sni=cs2.film2serial.cloud&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&fp=chrome&alpn=h2&allowInsecure=false#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.150.87:443
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@104.21.73.221:443?security=tls&sni=cs2.film2serial.cloud&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&fp=chrome&alpn=h2&allowInsecure=false#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.221:443
 vless://d2760579-350f-4f75-91f0-f3d5a12bdaf0@188.95.65.163:443?security=tls&flow=xtls-rprx-vision&sni=download.dilik.co&type=tcp&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇩🇪 DE-188.95.65.163:443
-vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-91.194.161.69:80
-vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
 vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.31.250.218:43851
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.73:8880
+vless://dfa48101-f9d6-4a60-91de-846b24905167@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
+vless://38f53254-2252-4497-a42a-bc07e087246b@104.17.122.209:443?security=tls&sni=test.digikala-aparat-zula.com&type=ws&host=test.digikala-aparat-zula.com&path=%2Fadmin#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.122.209:443
+vless://d9285cff-5443-4f6b-a004-4c36ef0a6faa@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2082
