@@ -1,12 +1,9 @@
-vless://b1500629-5d35-459d-afe9-7835d2e1e556@62.60.178.23:65041?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-62.60.178.23:65041
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.13.58:8880
-vless://623fac94-84fb-42cd-9e85-6142649b542d@51.89.226.95:45477?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NA 🇬🇧 GB-51.89.226.95:45477
-vless://38226a6d-c25b-4735-a74e-19b729206762@185.79.158.142:8098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8098
-vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-62.60.198.78:51487
 vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305?type=grpc&serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#🔒 VL-GRPC-NA 🇫🇷 FR-54.37.78.215:43305
+vless://623fac94-84fb-42cd-9e85-6142649b542d@51.89.226.95:45477?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NA 🇬🇧 GB-51.89.226.95:45477
+vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-62.60.198.78:51487
+vless://4e96c457-e331-57d5-ac72-5f37e41873e1@95.164.46.39:2052?security=none&sni=itvpnAndroid2.69.mu&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇮🇹 IT-95.164.46.39:2052
+vless://b76fbe55-0118-54d7-85eb-c6e4a6b2e737@5.252.23.173:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇰 SK-5.252.23.173:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.13.58:8880
 vless://d6b26272-51f4-48ae-a75a-1e29375bb6ed@151.101.2.216:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.2.216:80
-vless://ab1d1d10-5d26-4bc9-8476-350d205bde28@172.66.168.200:443?security=tls&sni=UK1-vLEss.greenSSH.ORg&type=ws&host=UK1-vLEss.greenSSH.ORg&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.200:443
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?encryption=noneShadmanegi+Unlimited&type=tcp#🔒 VL-TCP-NA 🇺🇸 US-5.78.53.184:443
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?security=tls&sni=Ws7KsKxZe0.MySpDmMeTi.CoM&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.37:2087
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2096?security=tls&sni=MnWzF164yO.mYsPdMmEtI.cOm&type=ws&host=MnWzF164yO.mYsPdMmEtI.cOm&path=/&alpn=h3h2#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.37:2096
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.40.28:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.40.28:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
