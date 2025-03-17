@@ -1,12 +1,4 @@
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.179.105:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-95.217.13.58:8880
 vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?security=none&type=ws&host=snapp.ir&path=%2Fvless#🔒 VL-WS-NONE 🇮🇷 IR-193.107.48.99:80
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇳🇱 NL-45.154.98.29:443
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2087?security=tls&sni=8RgOrEeQ5s.MySpDmMeTi.CoM&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2087
-vless://0401bb3d-0b30-42e3-9bb0-757657b5182c@192.200.160.188:8443?security=tls&sni=crm.iranigamebaz.ir&type=grpc&serviceName=V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.188:8443
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=tp292N98l2.maDeinROnALDO1.oRG&type=ws&host=tp292N98l2.maDeinROnALDO1.oRG&path=/&alpn=h2http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2087
-vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.88.159:80
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2053?security=tls&sni=D031tAp7Jq.MySpDmMeTi.CoM&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2053
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
-vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@104.18.20.69:443?security=tls&sni=us3.xn--ghqu5fm27b67w.com&type=ws&host=us3.xn--ghqu5fm27b67w.com&path=%2Fpq%2Fus3&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.69:443
