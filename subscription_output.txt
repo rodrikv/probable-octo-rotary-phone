@@ -1,6 +1,5 @@
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.153.103:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.153.103:443
-vless://b20644e0-c6e7-4c1c-bc9c-3538d9e86b3a@94.182.104.168:1234?security=none&type=tcp&host=Ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.104.168:1234
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?encryption=noneShadmanegi+Unlimited&type=tcp#🔒 VL-TCP-NA 🇺🇸 US-5.78.53.184:443
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.93.68.208:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-35.93.68.208:80
 vless://c815f11c-4b72-46a7-849b-45999f8bc894@151.101.3.8:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
-vless://8bb790b3-60ac-40a3-b4ee-779b926ebc3b@51.89.226.95:45477?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇬🇧 GB-51.89.226.95:45477
-vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?security=none&type=ws&host=snapp.ir&path=%2Fvless#🔒 VL-WS-NONE 🇮🇷 IR-193.107.48.99:80
-vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=/a8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
+vless://38226a6d-c25b-4735-a74e-19b729206762@185.79.158.142:8098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8098
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇳🇱 NL-45.154.98.29:443
