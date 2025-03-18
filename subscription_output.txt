@@ -1,17 +1,6 @@
-vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-185.125.103.139:30693
-vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.198.78:51487
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.180.60:443?type=tcp#🔒 VL-TCP-NA 🇫🇮 FI-65.109.180.60:443
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.179.105:443
-vless://da48223d-1ee6-47d7-af24-dff761579daa@45.135.194.45:10769?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-45.135.194.45:10769
-vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:8880?security=none&sni=Rs_vpnAndroid2.info.gf&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇷🇸 RS-45.89.55.188:8880
 vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?security=none&type=ws&host=snapp.ir&path=/vless#🔒 VL-WS-NONE 🇮🇷 IR-193.107.48.99:80
-vless://5cc7aa22-1afa-4715-ace7-498e44061b77@15.237.52.218:36105?security=tls&sni=b.vahidvpn.com.tr&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-15.237.52.218:36105
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.144.25.195:443
-vless://5cae3ae0-4d65-4d97-90eb-04f66ee3f85a@151.101.128.155:80?type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#🔒 VL-WS-NA 🇺🇸 US-151.101.128.155:80
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇳🇱 NL-45.154.98.29:443
-vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.6.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.215:443
-vless://c3f840ae-9b7a-4846-84d7-a7b52f215f0a@104.16.147.32:8443?security=tls&sni=vs.irandownloadi.ir.&type=grpc&serviceName=sepahanvpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.147.32:8443
+vless://4e96c457-e331-57d5-ac72-5f37e41873e1@95.164.46.39:2052?security=none&sni=itvpnAndroid2.69.mu&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇮🇹 IT-95.164.46.39:2052
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560&fp=firefox#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.7:443
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=%2F#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.37:8443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.7.100:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-65.109.7.100:8880
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
