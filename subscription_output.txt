@@ -1,22 +1,17 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.174.174:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.24:8880
-vless://3ec9362a-234f-4777-879a-e9a5420b4d68@188.245.206.53:1598?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.206.53:1598
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.39:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-84.32.191.215:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.32:8880
 vless://25165ada-2fcc-4fa4-8493-4b8c9896c876@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
-vless://44aef0cc-ec1b-450e-8bc7-82d3dc2ba31c@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-51.77.108.99:13004
-vless://7c598d05-6b60-4ba4-b326-52cca83adc95@217.60.240.210:3092?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇦🇪 AE-217.60.240.210:3092
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.21:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.21:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.38:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.23:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.23:8880
-vless://d7807075-738b-4032-8124-f11eb88dd097@188.34.201.88:16072?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.34.201.88:16072
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.26:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.26:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.33:8880
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&sni=UoCmUcLi0.RiPlEtOoRy.iNfO&type=ws&host=UoCmUcLi0.RiPlEtOoRy.iNfO&path=/&alpn=h2http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.35:8880
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1523
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&host=EVAY_VPNJoinBadeChannel@EVAY_VPN&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.144.25.195:443
-vless://c17e5bd4-00f9-4cb2-bd8f-cfd21bd9e2fd@31.14.131.51:55829?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇮🇹 IT-31.14.131.51:55829
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.23:8880
+vless://4d51570f-71e7-496d-a5a1-5f47b50bac35@37.27.250.128:1521?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.250.128:1521
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-84.32.191.215:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.39:8880
 vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=%2Fa8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.7:8880
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.56.77:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.41:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.41:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.35:8880
+vless://6ed5460a-cdfd-4e1a-a13a-91c0c1268d20@188.245.32.66:26745?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.32.66:26745
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.22:8880
+vless://3ec9362a-234f-4777-879a-e9a5420b4d68@188.245.206.53:1598?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.206.53:1598
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.33:8880
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?security=tls&sni=Ws7KsKxZe0.MySpDmMeTi.CoM&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.37:2087
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.26:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.26:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.174.174:8880
