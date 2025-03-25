@@ -1,15 +1,1 @@
-vless://25165ada-2fcc-4fa4-8493-4b8c9896c876@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.25:8880
-vless://d697e738-c105-42d0-916a-191b2e3074fd@5.75.140.123:4810?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-5.75.140.123:4810
-vless://3ec9362a-234f-4777-879a-e9a5420b4d68@188.245.206.53:1598?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.206.53:1598
 vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-213.176.6.166:34727
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.41:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.41:8880
-vless://03b04c54-7080-4052-a73e-8b6824dafe05@151.101.128.155:80?security=none&type=ws&host=vipfast_7.com&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-5.199.173.104:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.35:8880
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.240.222.56:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-44.240.222.56:80
-vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@104.21.75.193:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=%2Fa8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.193:443
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.86.96.96:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-35.86.96.96:80
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.243.10.167:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-44.243.10.167:80
-vless://de3e121a-8405-4888-98ec-8914c1850a2d@104.19.222.79:2053?security=tls&sni=trall.sabinhosting.ir&type=ws&host=usaall.sabinhosting.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:2053
