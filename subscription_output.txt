@@ -1,21 +1,10 @@
-vless://3ec9362a-234f-4777-879a-e9a5420b4d68@188.245.206.53:1598?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.206.53:1598
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.25:8880
-vless://d697e738-c105-42d0-916a-191b2e3074fd@5.75.140.123:4810?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-5.75.140.123:4810
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.166:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-5.199.173.166:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.22:8880
 vless://0d2e89bb-1d29-4dce-bbbb-aed468b803b0@65.109.185.196:57612?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.185.196:57612
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.42.250:8880
-vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-213.176.6.166:34727
-vless://a078cf27-cfd2-4791-bc1d-e45ca019f3ba@46.38.142.55:11010?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-46.38.142.55:11010
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.174.174:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.17:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-5.199.173.104:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.19:8880
-vless://5057251d-6dab-4021-b359-5e77b7bb1b6e@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.166:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-5.199.173.166:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.28:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.42.250:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.33:8880
+vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-213.176.6.166:34727
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.35:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.209:8880
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.240.222.56:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-44.240.222.56:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.23:8880
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=Tp356OnGfN.mOlAnAmAmAlI2.iNfO&type=ws&host=Tp356OnGfN.mOlAnAmAmAlI2.iNfO&path=/&alpn=h2http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2087
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.7:8880
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.57.77:443
