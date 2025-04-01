@@ -1,7 +1,4 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.41:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.174:8880
 vless://b1f664df-7a28-5923-87b6-99874e03f4cc@5.252.23.173:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇰 SK-5.252.23.173:8880
-vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇺🇦 UA-185.250.150.220:8880
-vless://37e0cabd-bdb0-5e94-aea7-0506d2b0bf7f@94.131.96.137:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇵🇱 PL-94.131.96.137:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.15:8880
-vless://ab1d1d10-5d26-4bc9-8476-350d205bde28@172.66.168.200:443?security=tls&sni=UK1-vLEss.greenSSH.ORg&type=ws&host=UK1-vLEss.greenSSH.ORg&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.200:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
