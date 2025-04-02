@@ -1,22 +1,16 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.19:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.23:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.23:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.193:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.35:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.46:8880
-vless://60d3bfac-8d63-59b9-99e6-516cbb230c39@213.159.76.238:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-213.159.76.238:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.7:8880
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:8443?security=tls&sni=ZlLgGdEq5.GaGsHoW.BlOg&type=ws&host=ZlLgGdEq5.GaGsHoW.BlOg&path=/&alpn=h3h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
-vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇺🇦 UA-185.250.150.220:8880
-vless://236e5945-16a9-449e-9915-028d383237ac@188.245.32.66:26745?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.32.66:26745
-vless://5efcfc72-47d7-4f7a-8da3-da18dfe44510@185.224.3.213:56096?type=tcp#🔒 VL-TCP-NA 🇱🇹 LT-185.224.3.213:56096
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.32:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.34:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.55:8880
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.4.120:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.120:443
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.156:8443
-vless://37208d52-8823-412d-944e-0a8ef08a5079@147.45.60.70:443?security=tls&sni=ee01.abvpn.ru&type=ws&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🇪🇪 EE-147.45.60.70:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:8443?security=tls&sni=ZlLgGdEq13.gAgShOw.bLoG&type=ws&host=ZlLgGdEq13.gAgShOw.bLoG&path=/&alpn=h3h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
-vless://d8e7d362-9436-4bb4-abe3-f490761e3c20@152.42.198.175:80?security=none&type=ws&host=static.whatsapp.net&path=%2Fshalana#🔒 VL-WS-NONE 🇸🇬 SG-152.42.198.175:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.42:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.22:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.48:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.48:8880
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.219:8443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.8:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.38:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.34:8880
+vless://60d3bfac-8d63-59b9-99e6-516cbb230c39@213.159.76.238:80?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇲🇩 MD-213.159.76.238:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-84.32.191.215:8880
+vless://ec5867ce-4e91-5bcc-bcdc-fea4d6b312a8@176.120.74.36:8880?security=none&sni=vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇪🇸 ES-176.120.74.36:8880
+vless://37208d52-8823-412d-944e-0a8ef08a5079@45.82.253.214:443?security=tls&sni=ee02.abvpn.ru&type=ws&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🇨🇾 CY-45.82.253.214:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.28:8880
+vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇺🇦 UA-185.250.150.220:8880
+vless://1b312879-3cdc-4782-a589-6d149d693854@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-51.77.108.99:13004
+vless://cc532b64-30ef-5d3b-8c74-f03c43e4e422@94.131.3.34:2086?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇨🇭 CH-94.131.3.34:2086
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.7:8880
