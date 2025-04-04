@@ -1,22 +1,13 @@
 vless://6b221895-03f0-4a07-a768-66111b83e7c8@37.202.237.107:45495?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-37.202.237.107:45495
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.169.208:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.42:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.46:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.17:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.13:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.134:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.8:8880
+vless://ece26ca7-1552-4158-806d-a04de25dc4c3@46.226.166.246:443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-46.226.166.246:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.22:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.193:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.25:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.28:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.174.174:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.23:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.23:8880
 vless://9486e684-0e38-49ff-954c-a9ed1e595ecf@141.95.103.120:54436?security=none&type=grpc&serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#🔒 VL-GRPC-NONE 🇫🇷 FR-141.95.103.120:54436
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.21:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.21:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-5.199.173.104:8880
-vless://71d1a30c-46a2-4b04-b802-7ddf5eb2d72f@80.211.203.158:25210?security=none&type=grpc&serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.203.158:25210
-vless://ece26ca7-1552-4158-806d-a04de25dc4c3@46.226.166.246:443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-46.226.166.246:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.35:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.212:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.48:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.48:8880
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.219:8443
-vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=/a8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.15:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.15:8880
 vless://d6691625-5650-59da-b243-6a6011a37b7d@45.141.58.22:443?security=tls&sni=nl.v2vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🇦🇹 AT-45.141.58.22:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?sni=TABRIZ.NET&type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.30:8880
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.156:8443
