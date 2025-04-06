@@ -1,31 +1,15 @@
-vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.163:45150
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?sni=TABRIZ.NET&type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.30:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.23:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.197:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.209:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.173.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
-vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@145.239.139.107:37826?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-145.239.139.107:37826
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.46:8880
-vless://0898dcc0-643e-4316-bbb7-a98d7491e335@185.79.158.143:8764?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.143:8764
-vless://e05eab75-115a-450d-a1ea-f40e56e72d1b@185.143.233.120:80?security=none&type=ws&host=getasa.ir&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.43:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.42:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.41:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.57:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.146:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.146:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.174.174:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.47:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.166:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.173.166:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.55:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.212:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.8:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.148:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.148:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.46:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.23:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.23:8880
-vless://57d42097-a3a8-4b0b-966d-5dffb3a09789@151.101.192.155:80?security=none&type=ws&host=shark.gov.ir&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.19:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.21:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.21:8880
-vless://57d42097-a3a8-4b0b-966d-5dffb3a09789@151.101.64.155:80?security=none&type=ws&host=shark.gov.ir&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
-vless://ba5a4409-159a-5e30-8806-6d97df5d85f3@[::ffff:2d8d:3a16]:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇦🇹 AT-[::ffff:2d8d:3a16]:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.34:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.32:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.134:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.166:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.173.166:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.38:8880
+vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=/a8e84392#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.20:8880
+vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇸🇨 SC-156.253.222.47:37826
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.28:8880
+vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.171.121:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.43:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp3608Tn93.BaBaUsMaN2.iNfO&type=ws&host=Tp3608Tn93.BaBaUsMaN2.iNfO&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2087
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?security=tls&sni=dee33.azurewebsites.net&type=ws&host=dee33.azurewebsites.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-20.189.104.97:443
