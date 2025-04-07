@@ -1,12 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.34:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.38:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.46:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.46:8880
-vless://974d9d8d-101b-4559-8253-6bcc7666cb2d@145.223.68.164:8443?type=grpc&serviceName=vless8443#🔒 VL-GRPC-NA 🇫🇷 FR-145.223.68.164:8443
-vless://7fc4f294-053f-490b-a5fd-1bd08d56ec1f@185.79.158.142:8098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8098
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.164:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.164:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.254:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.254:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.190.160.217:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-54.190.160.217:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.48:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.48:8880
-vless://b2c6744f-94c5-4ee4-a0d1-d49f007a9ac9@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
