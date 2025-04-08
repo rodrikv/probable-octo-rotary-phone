@@ -1,5 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.55:8880
-vless://5860e370-9482-49fa-9d08-4989291a405a@95.38.141.6:59069?type=grpc#🔒 VL-GRPC-NA 🇮🇷 IR-95.38.141.6:59069
-vless://3c73d762-6be8-43ca-87e7-b5cc4967a271@185.79.158.144:8765?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.144:8765
-vless://78905d87-0266-4825-868d-3069e88d1201@104.21.69.44:2053?security=tls&sni=all22.kikforwindows.com&type=ws&host=all22.kikforwindows.com&path=%2Fcontainers%2Fde&fp=chrome&alpn=h3%252Ch2%252Chttp%252F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.19.242:80
