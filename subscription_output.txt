@@ -1,14 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.245:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.38:8880
-vless://eeff606a-1373-410a-8435-9bcd5c1eb996@194.87.240.178:36675?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇿 CZ-194.87.240.178:36675
-vless://ce185c67-a728-4622-f5e0-b7ce9fc31c11@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.34:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://f64841cc-90af-4b5e-bd49-8ee5a57d0ff0@156.253.222.47:37826?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇸🇨 SC-156.253.222.47:37826
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.164:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.164:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.57:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.245:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.46:8880
-vless://3c73d762-6be8-43ca-87e7-b5cc4967a271@185.79.158.144:8765?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.79.158.144:8765
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&sni=MdLoXlYg.rIcKtMoUsE.InFo&type=ws&host=MdLoXlYg.rIcKtMoUsE.InFo&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
+vless://eeff606a-1373-410a-8435-9bcd5c1eb996@194.87.240.178:36675?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇿 CZ-194.87.240.178:36675
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.38:8880
+vless://ce185c67-a728-4622-f5e0-b7ce9fc31c11@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.114:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.114:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.18:8880
 vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?security=tls&sni=fonts.googleapis.com&type=ws&path=/&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-152.42.218.33:443
