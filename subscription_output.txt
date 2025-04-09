@@ -1,6 +1,13 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.34:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
+vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
 vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-194.5.206.53:3000
-vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
-vless://d5cb5bfd-40ef-4ba5-9c8a-bf53dd35a4e9@185.36.228.137:1433?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.36.228.137:1433
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.34:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.245:8880
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.146.161:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-159.89.146.161:59483
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.197:8880
+vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.227:443
+vless://fb4d198a-2b37-4058-a476-0cecf234064d@194.182.91.68:59416?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.91.68:59416
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒 VL-TCP-NA 🇦🇺 AU-170.64.171.83:36402
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.211.64:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-138.197.211.64:59483
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
+vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.34:443
+vless://d5cb5bfd-40ef-4ba5-9c8a-bf53dd35a4e9@185.36.228.137:1433?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.36.228.137:1433
