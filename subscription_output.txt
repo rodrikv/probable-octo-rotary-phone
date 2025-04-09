@@ -1,11 +1,12 @@
-vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
-vless://32a77e56-e8f3-4c4c-8059-6601f8459832@164.90.188.28:36287?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-164.90.188.28:36287
+vless://5b6c22b6-5403-48bc-a84b-9f8c3787b35d@85.198.15.65:8056?type=tcp&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-85.198.15.65:8056
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.34:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.197:8880
 vless://94aba2ae-44d7-479a-b868-58f47e4e8165@62.60.193.36:55525?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.193.36:55525
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.245:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
 vless://0898dcc0-643e-4316-bbb7-a98d7491e335@185.79.158.143:8764?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.143:8764
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
-vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒 VL-TCP-NA 🇦🇺 AU-170.64.171.83:36402
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.197:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.38:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.38:8880
+vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=/ws-connect/download/update/check/version/2.1.9/patch/force&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.227:443
+vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒 VL-TCP-NA 🇦🇺 AU-170.64.171.83:36402
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.176:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.176:8880
