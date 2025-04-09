@@ -1,5 +1,1 @@
 vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=ubka.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
-vless://d5cb5bfd-40ef-4ba5-9c8a-bf53dd35a4e9@185.36.228.137:1433?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.36.228.137:1433
-vless://99333609-167f-4750-ab63-34cfa27c723a@172.67.204.84:2053?security=tls&sni=all18.kikforwindows.com&type=ws&host=all18.kikforwindows.com&path=/containers/de#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2053
-vless://aaa5b74c-3a7e-45ba-bb94-1c4bceb13aa3@104.17.147.22:80?type=ws&host=Www.speedtest.net.speedtest2.cfd.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.147.22:80
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.1.117:2053?security=tls&sni=telnet.akcovufun.ir&type=ws&host=telnet.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.117:2053
