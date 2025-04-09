@@ -1,13 +1,13 @@
-vless://bf4f1bc0-5436-4484-8c42-126ba318c544@85.133.206.197:17000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:17000
 vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
 vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
-vless://32a77e56-e8f3-4c4c-8059-6601f8459832@164.90.188.28:36287?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-164.90.188.28:36287
 vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-194.5.206.53:3000
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.34:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.245:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.176:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.176:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.34:8880
+vless://3609d1ef-f25c-47e5-bd77-f891760fb5d6@194.182.90.159:57860?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.90.159:57860
+vless://fb4d198a-2b37-4058-a476-0cecf234064d@194.182.91.68:59416?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.91.68:59416
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.164:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.164:8880
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.34:443
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.227:443
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒 VL-TCP-NA 🇦🇺 AU-170.64.171.83:36402
-vless://cc5ef30a-effc-4054-967a-5b474cd1e056@175.29.22.48:443?security=tls&flow=xtls-rprx-vision&sni=djdownloadhk2.xn--4gq62f52gopi49k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇭🇰 HK-175.29.22.48:443
+vless://44fb1d23-afa2-442b-8202-3dfcbb3c6cda@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
