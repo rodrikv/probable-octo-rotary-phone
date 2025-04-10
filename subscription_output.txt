@@ -1,18 +1,15 @@
+vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@92.223.2.253:4411?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇲 AM-92.223.2.253:4411
 vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@213.142.133.48:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇹🇷 TR-213.142.133.48:3311
-vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
 vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
+vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.245:8880
-vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
 vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@193.32.176.43:6611?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-193.32.176.43:6611
-vless://bf4f1bc0-5436-4484-8c42-126ba318c544@151.234.162.123:21000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.123:21000
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.245:8880
+vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.34:8880
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.46.84:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-138.68.46.84:59483
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.132.51:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-159.89.132.51:59483
-vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.115.211:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-167.71.115.211:59483
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.199.14:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-143.110.199.14:59483
-vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@104.21.10.34:443?security=tls&sni=cdn.packageclub.net&type=ws&host=cdn.packageclub.net&path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.34:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
 vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@109.61.42.127:5511?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇪 AE-109.61.42.127:5511
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
+vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@5.8.35.41:2211?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇳 IN-5.8.35.41:2211
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.46.84:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-138.68.46.84:59483
+vless://a0bbdd91-8bf1-467e-cf91-5684222cf432@173.245.58.100:2095?security=none&type=ws&host=xpntEamfree.sockSchangert.ir.&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.100:2095
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.199.14:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-143.110.199.14:59483
+vless://fb4d198a-2b37-4058-a476-0cecf234064d@194.182.91.68:59416?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.91.68:59416
