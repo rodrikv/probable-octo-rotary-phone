@@ -1,15 +1,1 @@
-vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=ubka.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
-vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@213.142.133.48:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇹🇷 TR-213.142.133.48:3311
-vless://3db6f964-31e6-4928-8045-e3a0a4262e56@69.62.113.113:61217?security=none&type=tcp&host=github.com&headerType=http#🔒 VL-TCP-NONE 🇱🇹 LT-69.62.113.113:61217
-vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
-vless://e5513584-3c19-49be-ab4d-8118ea22ffe1@91.107.152.217:27081?type=tcp&host=fast%20com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.107.152.217:27081
-vless://3db6f964-31e6-4928-8045-e3a0a4262e56@69.62.124.7:61217?security=none&type=tcp&host=github.com&headerType=http#🔒 VL-TCP-NONE 🇱🇹 LT-69.62.124.7:61217
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.245:8880
-vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@109.61.42.127:5511?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇪 AE-109.61.42.127:5511
-vless://c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@193.32.176.43:6611?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-193.32.176.43:6611
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.199.14:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-143.110.199.14:59483
-vless://fda4e7fd-897d-4d56-90af-94f7240002ab@104.17.147.22:2053?security=tls&sni=netpie.ddns-ip.net&type=ws&host=netpie.ddns-ip.net&path=%2FTelegram-NetPie%3Fed%3D512&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2053
-vless://3db6f964-31e6-4928-8045-e3a0a4262e56@82.25.115.193:61217?security=none&type=tcp&host=github.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-82.25.115.193:61217
 vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.34:8880
