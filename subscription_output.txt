@@ -1,6 +1,5 @@
-vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
+vless://cb2f962e-82bd-4541-9a8e-878400c85f12@85.133.206.197:14000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:14000
 vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?security=none&type=grpc&serviceName=vless-grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-NONE 🇳🇱 NL-5.253.30.11:80
-vless://875dac5e-4700-4cce-b1f9-40b891b3a927@185.204.168.191:1133?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-185.204.168.191:1133
-vless://f1966652-db1a-450c-89ba-eb0d8c5b1445@104.17.148.22:2053?security=tls&sni=netpie.ddns-ip.net&type=ws&host=netpie.ddns-ip.net&path=%2FTelegram-NetPie%3Fed%3D512&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
-vless://25af5432-ccbf-4014-8a64-831485d61073@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:2096
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.245:8880
+vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.5:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.150.64:59483?security=auto&type=grpc&fp=chrome#🔒 VL-GRPC-AUTO 🇺🇸 US-157.230.150.64:59483
+vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80
