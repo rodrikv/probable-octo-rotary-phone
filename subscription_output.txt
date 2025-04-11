@@ -1,7 +1,9 @@
-vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@93.180.134.158:35111?security=none&type=grpc&serviceName=xyz#🔒 VL-GRPC-NONE 🇹🇷 TR-93.180.134.158:35111
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.5.114:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.5.114:443
-vless://a06d4812-2629-4668-b9e9-b322b46d3967@194.182.91.247:43546?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.91.247:43546
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.33.212:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.34:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
+vless://996cdd3b-9d6b-4359-9640-985a09dbefc3@80.211.223.63:43776?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.223.63:43776
+vless://edffac6f-cad3-43e9-abe9-738379b99ed6@188.213.170.136:29460?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇮🇹 IT-188.213.170.136:29460
+vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.24.204.237:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2Fddd%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.204.237:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.245:8880
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@45.144.55.237:4810?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-45.144.55.237:4810
