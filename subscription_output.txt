@@ -1,3 +1,2 @@
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.69.18.30:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-159.69.18.30:59483
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.64.73:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.64.73:59483
-vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?type=tcp&host=check-host.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-128.140.43.250:8081
+vless://6b1a9ddf-6498-4a7f-84fe-3cd88650c584@185.31.8.42:11011?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.31.8.42:11011
+vless://b73765af-0922-40bf-a9a5-0e3c4f09108b@185.79.158.143:8452?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.143:8452
