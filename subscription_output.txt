@@ -1,1 +1,1 @@
-vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?security=none&type=grpc&serviceName=vless-grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-NONE 🇳🇱 NL-5.253.30.11:80
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.35.223:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.223:59483
