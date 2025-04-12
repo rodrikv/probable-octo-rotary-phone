@@ -1,2 +1,1 @@
-vless://6b1a9ddf-6498-4a7f-84fe-3cd88650c584@185.31.8.42:11011?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.31.8.42:11011
-vless://b73765af-0922-40bf-a9a5-0e3c4f09108b@185.79.158.143:8452?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.143:8452
+vless://f41f7979-c51c-4e8c-94a2-c54e44a26b2e@109.61.42.127:5511?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇪 AE-109.61.42.127:5511
