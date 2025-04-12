@@ -1,17 +1,5 @@
 vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
-vless://78a22edc-18a3-4f5c-8cc6-c8b0a730eac3@80.211.208.208:33711?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.208.208:33711
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NA 🇱🇺 LU-45.136.117.8:8880
+vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NA 🇳🇱 NL-85.209.155.9:8880
 vless://fc11db53-8fb9-4380-a820-812b26b4dfb2@194.182.91.247:43546?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.91.247:43546
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://d9ffe4bc-7d3d-48ea-b58d-9c151d7f22b5@65.109.197.179:53256?security=tls&sni=crm.gamingbazirani.ir&type=grpc&serviceName=V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇫🇮 FI-65.109.197.179:53256
-vless://25ef2cb8-14da-491e-8da5-93e9bbddbb98@164.92.127.174:23316?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-164.92.127.174:23316
-vless://d431e60a-2a26-46ef-b0a8-644143727c12@137.184.10.72:52605?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-137.184.10.72:52605
-vless://98ac734f-12da-43f9-de47-22c83a43e262@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
-vless://03ed8341-e062-4bf1-b321-81b285d521d3@13.115.220.146:20413?type=tcp#🔒 VL-TCP-NA 🇯🇵 JP-13.115.220.146:20413
-vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.24.34:58491?type=tcp#🔒 VL-TCP-NA 🇲🇾 MY-43.216.24.34:58491
-vless://cb49c6cf-c559-4e3f-931b-a5daf3c9294b@13.230.113.30:10532?type=tcp#🔒 VL-TCP-NA 🇯🇵 JP-13.230.113.30:10532
+vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:13000
 vless://f1c18014-d4e9-4c81-c7e2-bd7ea51ab297@13.230.113.30:42294?type=tcp#🔒 VL-TCP-NA 🇯🇵 JP-13.230.113.30:42294
-vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp#🔒 VL-TCP-NA 🇲🇾 MY-43.216.181.43:18264
-vless://f187657f-4ea1-4d8a-f879-ef21aa2736d4@54.64.118.23:55232?type=tcp#🔒 VL-TCP-NA 🇯🇵 JP-54.64.118.23:55232
-vless://98ac734f-12da-43f9-de47-22c83a43e262@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2082
