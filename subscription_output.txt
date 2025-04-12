@@ -1,12 +1,1 @@
-vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=ubka.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
-vless://34e46858-e347-4e0b-a720-61ec2100a316@80.211.223.43:53786?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.223.43:53786
-vless://78a22edc-18a3-4f5c-8cc6-c8b0a730eac3@80.211.208.208:33711?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.208.208:33711
-vless://619b233c-ca8e-54c7-9b5f-8c118b0ab617@5.253.30.11:80?security=none&type=grpc&serviceName=vless-grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-NONE 🇳🇱 NL-5.253.30.11:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.109:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
-vless://25ef2cb8-14da-491e-8da5-93e9bbddbb98@164.92.127.174:23316?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-164.92.127.174:23316
-vless://d431e60a-2a26-46ef-b0a8-644143727c12@137.184.10.72:52605?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-137.184.10.72:52605
-vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp#🔒 VL-TCP-NA 🇲🇾 MY-43.216.181.43:18264
-vless://f1c18014-d4e9-4c81-c7e2-bd7ea51ab297@13.230.113.30:42294?type=tcp#🔒 VL-TCP-NA 🇯🇵 JP-13.230.113.30:42294
-vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:13000
+
