@@ -1,1 +1,1 @@
-
+vless://9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000?security=none&type=tcp&host=ubka.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:12000
