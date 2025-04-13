@@ -1,1 +1,1 @@
-vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
+
