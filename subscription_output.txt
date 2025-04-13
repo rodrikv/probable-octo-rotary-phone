@@ -1,6 +1,1 @@
-vless://38c78d80-38b8-4692-914a-f7cb6356a0e1@85.133.206.197:15000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:15000
-vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@116.203.121.152:59483?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-116.203.121.152:59483
-vless://b73765af-0922-40bf-a9a5-0e3c4f09108b@185.79.158.143:8452?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.143:8452
-vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:13000
-vless://3a053d57-c20a-455a-a21a-95d32f69b24c@80.211.223.63:43776?security=none&type=grpc&serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.223.63:43776
+
