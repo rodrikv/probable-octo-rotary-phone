@@ -1,24 +1,36 @@
-vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:13000
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.250:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.250:8880
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@49.12.12.203:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-49.12.12.203:59483
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.29:8880
-vless://ed5d3df0-61c9-4f3d-9891-3adec1e14463@144.76.231.27:51406?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-144.76.231.27:51406
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.240:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.240:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.194:59483?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.38.194:59483
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.35.223:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.223:59483
+vless://a8119c21-a9f8-4000-be09-3ff4f0ff85fd@85.90.207.235:30012?security=none&type=grpc#🔒 VL-GRPC-NONE 🇦🇲 AM-85.90.207.235:30012
+vless://6a66eb3f-e91f-4979-9cc4-923708ce9d14@142.132.185.23:12685?security=none&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#🔒 VL-GRPC-NONE 🇩🇪 DE-142.132.185.23:12685
+vless://37e9ed0b-bde6-48ad-b837-9f19a5bbc80f@138.199.203.23:31904?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-138.199.203.23:31904
+vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&type=tcp&host=check-host.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.43.250:8081
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.136:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.38.136:59483
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-128.140.124.194:59483
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
-vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-94.177.225.237:53695
+vless://ed5d3df0-61c9-4f3d-9891-3adec1e14463@144.76.231.27:51406?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-144.76.231.27:51406
 vless://3ac87d23-b3cf-43c0-b274-f1a6633effd5@138.199.203.23:23568?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-138.199.203.23:23568
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.31:8880
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.38.176:443
+vless://e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:19000
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.194:59483?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.38.194:59483
+vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.197:13000
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.74.18:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.74.18:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.34.155:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.34.155:59483
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.92:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-84.32.191.215:8880
+vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-94.177.225.237:53695
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.24.195:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.206:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.17.135.91:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.135.91:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.253:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.252.87:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.252.87:443
+vless://3a053d57-c20a-455a-a21a-95d32f69b24c@80.211.223.63:43776?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-80.211.223.63:43776
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.69.18.30:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-159.69.18.30:59483
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.148.184:80
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.35.223:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-157.180.35.223:59483
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.237:443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.35.218:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.35.218:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.222.128:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.222.128:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.16.91:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.206:443
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.63:2083
-vless://9a2680ff-c5d5-410a-9108-8d6b10e4ea1e@104.24.37.192:80?type=ws&host=ppal03.dolobe7975.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.37.192:80
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.16.144.242:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.144.242:2083
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-128.140.124.194:59483
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.41.105:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.41.105:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.16.91:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.104:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.222.128:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.222.128:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.213.195:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.49.112:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.49.112:443
