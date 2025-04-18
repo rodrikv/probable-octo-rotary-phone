@@ -1,8 +1,7 @@
-vless://c7d4b0f6-0f18-45a3-97c7-caaf373f032d@5.253.30.14:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-5.253.30.14:8880
+vless://31d1b5d7-67ad-4416-9656-eefe69d679aa@144.76.231.24:24917?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-144.76.231.24:24917
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.163.7:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.163.7:442
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.105:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-185.8.105.105:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.31.235:8880
-vless://c9915df4-48e4-4084-810b-438b8548c615@91.107.254.145:3033?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=9GYwmAKTskGpQ7sKrds-aa14vW-6yYzs-yE8Y7HBcTQ#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.254.145:3033
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-185.236.232.247:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.173:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.173:8880
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.43.21:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-138.68.43.21:59483
 vless://c0b38bf3-41f2-470a-8eb9-ab6ccc503bf5@karim.digikala.ir.iqcoder.ir:80?allowInsecure=0&sni=00.org&type=ws&host=00.org&path=/telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens?ed=2048#14%7CUS_speednode_0052
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@77.110.101.4:4810?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-77.110.101.4:4810
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.31.235:8880
