@@ -1,13 +1,1 @@
 vless://f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.49:15450
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.215.44:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.215.44:442
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.42:8880
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-185.236.232.247:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.173:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.173:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.105:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-185.8.105.105:8880
-vless://df681322-6cfb-4ed1-9571-de0e88d7c888@162.19.212.19:19356?security=none&type=grpc&serviceName=DarkTeam_VPN#🔒 VL-GRPC-NONE 🇫🇷 FR-162.19.212.19:19356
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.25.111:8880
-vless://2d2586d4-7ccf-4604-9dbe-ec3daf1c9ab0@194.182.79.144:49200?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.144:49200
-vless://e103ffce-ef58-40e3-81d9-ed9f2956f933@141.227.140.214:2030?security=reality&sni=refersion.com&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇮🇹 IT-141.227.140.214:2030
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.93:8880
-vless://c0b38bf3-41f2-470a-8eb9-ab6ccc503bf5@karim.digikala.ir.iqcoder.ir:80?allowInsecure=0&sni=00.org&type=ws&host=00.org&path=/telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens,telegram-misens?ed=2048#13%7CUS_speednode_0052
