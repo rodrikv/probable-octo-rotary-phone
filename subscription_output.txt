@@ -1,8 +1,6 @@
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.163.7:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.163.7:442
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.31.235:8880
-vless://c9915df4-48e4-4084-810b-438b8548c615@91.107.254.145:3033?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=9GYwmAKTskGpQ7sKrds-aa14vW-6yYzs-yE8Y7HBcTQ#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.254.145:3033
-vless://598054a0-0105-40f9-f383-40922776d12a@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2082
-vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&type=tcp&host=check-host.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.43.250:8081
+vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.163.7:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.163.7:442
+vless://eaaa9c5e-0af4-403e-9bf3-a0890b793bb8@142.93.231.14:55583?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-142.93.231.14:55583
+vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?security=none&type=grpc&serviceName=DarkTeam_VPN#🔒 VL-GRPC-NONE 🇫🇷 FR-162.19.212.19:19356
+vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44?security=reality&sni=refersion.com&type=tcp&host=Join_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&fp=chrome&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.215.22:44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-84.32.131.12:8880
-vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.5:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
-vless://fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.1:80?security=none&type=ws&host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.1:80
