@@ -1,16 +1,20 @@
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-94.131.108.195:53221
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.105:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-185.8.105.105:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.248.216:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.248.216:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.31.235:8880
-vless://5b72bb31-2c5a-451a-8bc6-88a3f3c9437f@78.47.195.49:18450?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-78.47.195.49:18450
-vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&type=tcp&host=check-host.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-128.140.43.250:8081
-vless://12f34bdd-5f05-48ed-b040-7be3962bf84a@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
-vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070
-vless://c9915df4-48e4-4084-810b-438b8548c615@91.107.254.145:3033?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=9GYwmAKTskGpQ7sKrds-aa14vW-6yYzs-yE8Y7HBcTQ#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.254.145:3033
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-185.236.232.247:8880
+vless://31d1b5d7-67ad-4416-9656-eefe69d679aa@144.76.231.24:24917?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-144.76.231.24:24917
+vless://eaaa9c5e-0af4-403e-9bf3-a0890b793bb8@142.93.231.14:55583?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-142.93.231.14:55583
+vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.215.22:44
+vless://81769a76-2640-49f2-8dd2-9d5f6ae55e03@167.235.246.4:2010?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=I-8Bbc2mVVLerJteUDBgmZOIn6LUWV-_cQ0nwr75axM&sid=e7e2ae6c52556455#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.246.4:2010
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc#🔒 VL-GRPC-NA 🇺🇸 US-185.236.232.247:8880
+vless://68665e7f-31c1-49f4-9347-3e18c18e024b@165.232.37.139:1615?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#🔒 VL-TCP-RLT 🇬🇧 GB-165.232.37.139:1615
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.26:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.93:8880
-vless://d1ae66ce-1f3e-4394-87c1-4b31e499310a@151.101.64.155:80?security=none&type=ws&host=irancell.net.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
-vless://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#🔒 VL-TCP-RLT 🇩🇪 DE-157.173.127.238:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub`
-vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=chrome&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#🔒 VL-TCP-RLT 🇺🇸 US-206.206.80.77:53533
-vless://0cd2c22e-7bab-41cc-8168-c77be874d632@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-5.199.173.186:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.173:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.173:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.148:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.148:8880
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.213.195:443
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.122.80:443
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.253.84:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.84:443
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.53:443
+vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.221:443
+vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&type=grpc&serviceName=%44%61%72%6b%54%65%61%6d%5f%56%50%4e#🔒 VL-GRPC-NONE 🇬🇧 GB-198.244.193.109:13039
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?security=none&type=ws&host=fuckingxijinping.xijinpingbigsb.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:2095
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@79.127.70.67:4268?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.67:4268
