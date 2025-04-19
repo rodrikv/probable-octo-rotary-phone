@@ -1,9 +1,4 @@
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-94.131.108.195:53221
-vless://c7d4b0f6-0f18-45a3-97c7-caaf373f032d@5.253.30.14:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-5.253.30.14:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-37.27.31.235:8880
-vless://eaaa9c5e-0af4-403e-9bf3-a0890b793bb8@142.93.231.14:55583?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-142.93.231.14:55583
-vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.215.22:44
-vless://12f34bdd-5f05-48ed-b040-7be3962bf84a@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&type=tcp#🔒 VL-TCP-TLS 🇫🇮 FI-95.217.206.161:443
-vless://f971fca9-8982-46a2-b55e-836590af3288@151.101.2.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.112.97:80
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80?security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.184.194:80
+vless://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=%2Ftelegram%40V2ray\_Alpha%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.158.124:80
+vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.157.124:80
+vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.88.159:80
