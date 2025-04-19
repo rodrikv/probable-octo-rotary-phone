@@ -1,3 +1,8 @@
+vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-78.47.195.49:20878
 vless://3c52a753-c0e7-40d7-b710-1e076d218bcb@142.93.231.14:18214?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-142.93.231.14:18214
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.231.42:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.231.42:442
-vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&type=grpc&serviceName=DarkTeam_VPN#🔒 VL-GRPC-NONE 🇬🇧 GB-198.244.193.109:13039
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.12:8880
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@77.110.101.4:4810?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-77.110.101.4:4810
+vless://c083c02f-5771-445b-9b92-1e24093b13c5@54.37.7.94:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#🔒 VL-TCP-RLT 🇫🇷 FR-54.37.7.94:443
+vless://e88187f8-62a3-4de1-a8f6-3b704ebd1865@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.sabzmaghz.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s28.sabzmaghz.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:2096
+vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.18.20.20:443?security=tls&sni=us5.globals-download.com&type=ws&host=us5.globals-download.com&path=%2Fpq%2Fus5&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.20:443
