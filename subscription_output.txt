@@ -1,6 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.39:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-185.150.117.39:8880
 vless://6e23c30c-a248-4dbe-9239-8412f8a8834b@188.245.186.187:12000?security=reality&sni=refersion.com&type=grpc&serviceName=Tok&fp=chrome&pbk=WcjPU1iR-woM10JNMkMmv-c1Dl37z6PRsqmciMAitlg&sid=cb45d5eb4577c376#🔒 VL-GRPC-RLT 🇩🇪 DE-188.245.186.187:12000
-vless://85988c00-baff-51d4-babd-d2cf2fecdce5@84.234.29.208:443?security=reality&sni=miro.com&type=tcp&fp=chrome&pbk=Sbr5E-2N9FFuLjTvVIXwNiCtgKAAE0yCYpuTArScuwM&sid=72#🔒 VL-TCP-RLT 🇨🇭 CH-84.234.29.208:443
-vless://4989d49b-652a-4440-ab86-261308e1b40a@185.36.228.137:2087?security=reality&sni=ftp.debian.org&type=tcp&fp=firefox&pbk=H7t1p2QKkswvbFZzHVTRXDGBcvsSnT-r4ToCVUtVPxA&sid=3d59c03b#🔒 VL-TCP-RLT 🇮🇷 IR-185.36.228.137:2087
-vless://53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.108:50513
 vless://a4a2ecb2-a1c5-4746-9b4b-1b36ea18cd69@54.37.7.94:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#🔒 VL-TCP-RLT 🇫🇷 FR-54.37.7.94:443
